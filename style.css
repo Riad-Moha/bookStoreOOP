@@ -1,0 +1,58 @@
+
+
+label {
+  font-weight: bold;
+}
+
+.erreur {
+  display: none;
+  background-color: red;
+  color: #fff;
+  padding: 5px;
+  font-size: 16px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url('read.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  padding: 0;
+  margin: 0;
+
+  
+}
+
+
+
+footer {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+
+}
+
+footer i {
+  font-size: 30px;
+  margin: 10px;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+.added {
+  display: none;
+  background-color: #28df99;
+  color: #FFF;
+  padding: 5px;
+  font-size: 16px;
+  margin-bottom: 5px;
+  text-align: center;
+}
